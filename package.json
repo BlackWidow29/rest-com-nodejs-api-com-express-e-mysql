@@ -1,0 +1,19 @@
+{
+  "name": "projeto-nodejs-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackWidow29/rest-com-nodejs-api-com-express-e-mysql.git"
+  },
+  "author": "Isabelly Dias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackWidow29/rest-com-nodejs-api-com-express-e-mysql/issues"
+  },
+  "homepage": "https://github.com/BlackWidow29/rest-com-nodejs-api-com-express-e-mysql#readme"
+}
